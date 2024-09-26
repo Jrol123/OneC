@@ -1,0 +1,22 @@
+﻿1CV8LOG(ver 2.0)
+be1681ba-9732-453b-867a-066f12808aed
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"TEREM228",1},
+{3,"1CV8C",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{3,"BackgroundJob",2},
+{4,"_$Session$_.Finish",3},
+{3,"Designer",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,4b9dbb05-524e-4284-b075-5f2d033291a6,"",1},
+{5,fad91bd5-0499-4c8c-91de-c019d69d1705,"",2},
+{5,bc69ca97-302e-41c5-af24-4645e2d88e4b,"",3},
+{5,5a79be18-6773-4ca5-b622-51653b6a24c3,"",4},
+{5,c393e4c3-4860-4e39-835f-f0cd9115e32e,"",5},
+{5,a84bd481-53e3-43bd-b089-752e4d537e82,"",6},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{4,"_$InfoBase$_.ConfigUpdate",7}
