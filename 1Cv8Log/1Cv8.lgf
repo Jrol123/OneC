@@ -19,4 +19,12 @@ be1681ba-9732-453b-867a-066f12808aed
 {5,c393e4c3-4860-4e39-835f-f0cd9115e32e,"",5},
 {5,a84bd481-53e3-43bd-b089-752e4d537e82,"",6},
 {4,"_$InfoBase$_.DBConfigUpdate",6},
-{4,"_$InfoBase$_.ConfigUpdate",7}
+{4,"_$InfoBase$_.ConfigUpdate",7},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,fad91bd5-0499-4c8c-91de-c019d69d1705,"Справочник.Филиалы",2},
+{4,"_$Transaction$_.Commit",10},
+{5,4b9dbb05-524e-4284-b075-5f2d033291a6,"Справочник.Сотрудники",1},
+{4,"_$PerformError$_",11},
+{4,"_$Data$_.Update",12},
+{4,"_$Data$_.Delete",13}
