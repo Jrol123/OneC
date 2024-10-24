@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="ЦеныБлюд">
+		<text>ВЫБРАТЬ
+	ЦеныБлюд.Период КАК Период,
+	ЦеныБлюд.Блюдо КАК Блюдо,
+	ЦеныБлюд.Цена КАК Цена
+ИЗ
+	РегистрСведений.ЦеныБлюд КАК ЦеныБлюд
+ГДЕ
+	ЦеныБлюд.Блюдо = &amp;Блюдо
+</text>
+		<textSQL>
+
+		</textSQL>
+		<planSQL>
+
+		</planSQL>
+		<typeSQL>
+
+		</typeSQL>
+		<parameters>
+			<parameter name="Блюдо" type="CatalogRef.Блюда" value="add70f46-8d48-11ef-b948-010101010000"/>
+		</parameters>
+	</query>
+</querylist>
