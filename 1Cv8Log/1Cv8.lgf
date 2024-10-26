@@ -44,4 +44,7 @@ be1681ba-9732-453b-867a-066f12808aed
 {3,"1CV8",4},
 {5,408d422a-a376-4b06-9e74-219f2bd8dafe,"РегистрСведений.СостояниеСтолов",11},
 {4,"_$Job$_.Start",18},
-{4,"_$Job$_.Finish",19}
+{4,"_$Job$_.Finish",19},
+{4,"_$InfoBase$_.ConfigExtensionUpdate",20},
+{4,"_$Access$_.Access",21},
+{4,"_$InfoBase$_.DBConfigExtensionUpdate",22}
